@@ -4,9 +4,11 @@
 
 [pypi.simplex-chat]
 "7.1.0b6" = "489b07ff4f9b517a5aa21815c49cac38777b893e"
+"7.1.0b6.post1" = "0d33f689e64afb6be2ff9a23d87adf8f9c4c27ee"
 
 [npm.simplex-chat]
 "7.1.0-beta.6.3" = "f5b13f608f3d56f59d772d3c3e1f264fbe2be280"
+"7.1.0-beta.6.4" = "0d33f689e64afb6be2ff9a23d87adf8f9c4c27ee"
 
 [npm."@simplex-chat/types"]
 "7.1.0-beta.6.1" = "674f9ea3fceca35a8bd4ba23d51b5353445497d4"
