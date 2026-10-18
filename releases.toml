@@ -7,3 +7,6 @@
 
 [npm.simplex-chat]
 "7.1.0-beta.6.3" = "f5b13f608f3d56f59d772d3c3e1f264fbe2be280"
+
+[npm."@simplex-chat/types"]
+"7.1.0-beta.6.1" = "674f9ea3fceca35a8bd4ba23d51b5353445497d4"
