@@ -1,6 +1,7 @@
 [core.master]
 "7.1.0.11" = "9711dcfc9c39ba125c1fb1674a3e039b1b9c0e81"
 "7.1.0.12" = "674f9ea3fceca35a8bd4ba23d51b5353445497d4"
+"7.1.0.14" = "5a02b906e6cc85d2e554fde39349a4314103e412"
 
 [pypi.simplex-chat]
 "7.1.0b6" = "489b07ff4f9b517a5aa21815c49cac38777b893e"
