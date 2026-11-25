@@ -10,6 +10,9 @@
 "7.1.3.0" = "9764699e0fca7c6d226331f3043aadf80ba3a945"
 "7.1.4.0" = "f298e84baf1ef99dbf4c8aed6ef46a67742eadd3"
 
+[core.stable]
+"7.1.5.0" = "89b8daf9c19d5828b540a430738c8cf1ef18d5c8"
+
 [pypi.simplex-chat]
 "7.1.0b6" = "489b07ff4f9b517a5aa21815c49cac38777b893e"
 "7.1.0b6.post1" = "0d33f689e64afb6be2ff9a23d87adf8f9c4c27ee"
